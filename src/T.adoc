@@ -1,0 +1,201 @@
+= T
+
+tableau:: Plural "tableaux."
+
+takeoff:: Noun; "take off" is the verb.
+
+takeover::
+
+talkshow::
+
+talk to:: Not "talk with."
+
+tam o'shanter:: A woollen cap.
+
+Tannoy:: Trademark.
+
+taoiseach:: The Irish prime minister.
+
+targeted, targeting::
+
+tariff::
+
+tarot cards::
+
+taskforce::
+
+taskmaster::
+
+Tate:: A group of British art galleries: "Tate Britain" (Millbank, London, British art from the 16th century), "Tate Modern" (Southwark), "Tate Liverpool," "Tate St Ives."
+
+teacup, teapot, teaspoon, teabag::
+
+team-mate::
+
+teams:: See "singular or plural."
+
+teargas::
+
+Teasmade:: Trademark; say "teamaker."
+
+Teesside::
+
+teetotaller::
+
+Teflon:: Trademark; say "non-stick pan."
+
+telephone numbers:: See "phone numbers."
+
+Teletubbies::
+
+temazepam::
+
+temperatures:: Where both scales are given for a general audience, format as "23C (73F)," "-3C (27F)," with no degree symbol. Avoid "centigrade" in favour of "celsius," to avoid any confusion with the historical meaning of "centigrade" as the 100th part of a grade.
+
+Ten Commandments::
+
+tendinitis:: Not "tendonitis."
+
+tenses:: See <<voice-and-tense,Voice and tense>>.
+
+terrace houses:: Not "terraced."
+
+Terrence Higgins Trust::
+
+Tesco:: Not "Tesco's."
+
+Test:: In cricket: "the third Test."
+
+textbook::
+
+textbox::
+
+that:: Do not omit "that" where the sentence grammatically requires it, but do not automatically insert it after "said" either. See also "that or which."
+
+that, which:: See <<that-and-which,"That" and "which">>.
+
+the:: Lowercase for newspapers ("the Guardian"), magazines ("the New Statesman"), pubs, rock bands ("the Beatles"), and sports grounds ("the Oval"). Uppercase for books ("The Lord of the Rings"), films ("The Matrix"), poems ("The Waste Land"), television shows ("The West Wing"), and some place names ("The Hague"). For the general rule on capitalizing titles of works, see <<titles-of-works,Titles of works>>.
+
+theatregoer::
+
+theirs:: Never an apostrophe.
+
+Thermos:: Trademark; say "vacuum flask."
+
+there is:: Truncate to "there's" where natural.
+
+thinktank::
+
+third party:: Not hyphenated.
+
+Third Reich::
+
+third way::
+
+third world:: Do not use; prefer "less developed countries."
+
+this, that:: "This" looks forward; "that" looks back.
+
+thoroughbred, thoroughgoing::
+
+threefold, threescore::
+
+thumbs up::
+
+thunderstorm::
+
+time-out, time out:: "Time-out" (noun); "time out" (verb). "Time Out" is a magazine and a trademark.
+
+tidewater::
+
+times:: This standard's own convention is 24-hour format — see <<numbers-dates-and-units,Numbers, dates, and units>> — which differs from a house style using "1am," "6.30pm" for a general audience; the source convention this entry is adapted from used the 12-hour form throughout, without the 24-hour clock.
+
+time-saver::
+
+time zone::
+
+tinfoil::
+
+titbit:: Not "tidbit" (US spelling).
+
+titles:: "AM" (assembly member): a member of the Welsh assembly, eg "Rhodri Morgan AM."
+
+T-junction::
+
+tomato:: Plural "tomatoes."
+
+tonne:: Not "ton."
+
+towards:: Not "toward."
+
+top hat::
+
+top 10, top 40:: And similar.
+
+tortuous, torturous:: "Tortuous" describes a road that winds or twists; "torturous" describes an experience involving pain or suffering. See also <<commonly-confused-words,Commonly confused words>>.
+
+Tory party:: Prefer "Conservative party."
+
+totalled::
+
+touchdown::
+
+town councillor, town hall::
+
+trade union, trade unionist::
+
+tragic:: Use with care; avoid cliches such as "tragic accident."
+
+transatlantic::
+
+Transport for London::
+
+Trans-Siberian railway::
+
+Traveller, Travellers:: Uppercase when referring to a group such as Irish Travellers, recognized as a distinct ethnic group under race relations legislation.
+
+trip-hop::
+
+tropic of cancer, tropic of capricorn::
+
+the Troubles:: Refers to the conflict in Northern Ireland.
+
+try to:: Never "try and."
+
+tsar:: Not "czar."
+
+T-shirt::
+
+the tube:: Lowercase ("London Underground" is the name of the company); individual lines are named thus: "Jubilee line," "Northern line."
+
+turnover:: Noun; "turn over" is the verb.
+
+21st century::
+
+twofold::
+
+tying::
+
+== Transliteration of foreign names
+
+Arabic:: Omit "al-" from a name where it reads naturally without it; include it (lowercase, followed by a hyphen) where the name looks odd without it. "Osama bin Laden" becomes "Mr bin Laden" on second mention.
+
+Bangladeshi:: Where a name includes the Islamic definite article, write it lowercase and without hyphens: "Mujib ur Rahman."
+
+Chinese:: Follow Pinyin spelling, which has replaced the older Wade-Giles system, except for historical figures and people or places outside mainland China: "Beijing," not "Peking"; "Mao Zedong," not "Mao Tse-tung." Pinyin spelling has no hyphens: "Deng Xiaoping," "Guangzhou." Exceptions that keep a hyphen: "Chiang Kai-shek," "Hong Kong," "Li Ka-shing." The family name comes first in Chinese, Singaporean, and Vietnamese names, so "Deng Xiaoping" becomes "Mr Deng" on a later mention.
+
+Dutch:: With a first name and surname together, "van" and "den" are lowercase: "Dries van Agt." Without the first name: "Mr Van Agt." These rules do not always apply to Dutch names in Belgium and South Africa.
+
+French:: A "de" is usually lowercase unless it starts a sentence: "Charles de Gaulle," but "De Gaulle" to open a sentence.
+
+German:: A "von" is uppercase only at the start of a sentence.
+
+Japanese:: The Japanese language puts the family name first (Koizumi Junichiro), but this is generally reversed in English-language contexts: "Junichiro Koizumi."
+
+Korean:: The family name comes first: "Kim" in "Kim Dae-jung."
+
+Pakistani:: Where a name includes the Islamic definite article "ul," write it lowercase and without hyphens: "Zia ul Haq."
+
+Russian:: Transliteration is inherently imprecise; a few rules of thumb favour simplicity over phonetic accuracy: no "y" before "e" except at the start of a word ("Belarus," "perestroika," but "Yeltsin"); words ending "-ski," "-skii," or "-sky" become "-sky"; a sound pronounced "yo" is usually spelled "e" ("Fedorov," "Gorbachev," not "Fyodorov").
+
+Ukrainian:: Ukrainian has no "g," so "Yevhen" (not "Yevgeny"), "Ihor" (not "Igor"), "Luhansk" (not "Lugansk"). The currency is the "hryvnia."

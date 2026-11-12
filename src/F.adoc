@@ -1,0 +1,402 @@
+= F
+
+facade:: No cedilla.
+
+FA Cup:: "The Cup" after first mention; other cups are lowercase at second mention.
+
+fahrenheit:: See "temperatures."
+
+Fáilte Ireland:: Ireland's tourism authority.
+
+faint-hearted::
+
+fairytale::
+
+fallout:: Noun; "fall out" is the verb.
+
+famous people:: "Beyoncé" (formerly "Beyoncé Knowles"); "Salvador Dalí" (note the accent); "Dame Judi Dench," not "Judy"; "Robert De Niro," not "DeNiro"; "Danny DeVito"; "Leonardo DiCaprio"; "Gandhi," not "Ghandi"; "Paul Gauguin," often misspelled "Gaugin"; "Andrew Lloyd Webber."
+
+far, farther, farthest:: For distances; otherwise "further," "furthest."
+
+fascism, fascist::
+
+fashion weeks:: Lowercase, eg "London fashion week."
+
+fatality:: Use "death."
+
+father of two:: And similar; not "father-of-two."
+
+fed up with:: Not "fed up of."
+
+feelgood factor:: Cliche; do not use.
+
+fellow artist, fellow members:: Do not hyphenate this kind of construction.
+
+ferris wheel::
+
+festivals:: Lowercase, eg "Cannes film festival," "Edinburgh Fringe festival," "Glastonbury."
+
+fete:: No accent.
+
+fewer, less:: "Fewer" means smaller in number, eg "fewer coins"; "less" means smaller in quantity, eg "less money." See also <<commonly-confused-words,Commonly confused words>>.
+
+fiance, fiancee:: "Fiance" (male), "fiancee" (female); but "divorcee" is both.
+
+figures:: See "numbers" and "fractions."
+
+filename:: For a computer file.
+
+film titles:: See "book and film titles."
+
+filmmaker, filmmaking::
+
+Filofax:: Trademark. Prefer "personal organiser."
+
+finalise, finalised:: Avoid; use "complete," "completed."
+
+fine-tooth comb::
+
+fine-tune::
+
+firefighter:: Not "fireman."
+
+Firefox:: The web browser.
+
+first:: Spell out "second," "third" through "ninth"; then "10th," "21st," "millionth." Figures may be used in titles and headlines. See also <<numbers-dates-and-units,Numbers, dates, and units>>.
+
+firstly:: Write "first," "second," "third."
+
+first aid::
+
+first-hand::
+
+first name:: Not "Christian name" or "forename."
+
+first world war::
+
+flak:: Not "flack."
+
+flash-drive::
+
+flaunt, flout:: "To flaunt" is to make a display of something, as in flaunting wealth; "to flout" is to show disregard for something, as in flouting the seatbelt law. See also <<commonly-confused-words,Commonly confused words>>.
+
+flexitime::
+
+flounder, founder:: "To flounder" is to perform a task badly; "to founder" is to fail — a business might founder because its leaders are floundering. See also <<commonly-confused-words,Commonly confused words>>.
+
+flu::
+
+fluky:: Not "flukey."
+
+flyer:: Not "flier."
+
+fogey:: Not "fogy."
+
+following:: Prefer "after," eg "Mansfield Town went to pieces after their Cup exit."
+
+foot and mouth disease::
+
+forbear, forebear:: "Forbear" means to abstain; "forebear" means an ancestor. See also <<commonly-confused-words,Commonly confused words>>.
+
+foreign words and phrases:: Never use a foreign word where a suitable English equivalent exists. Where one genuinely must be used, a foreign word commonly used in English generally takes no accent — the standard's exception is "exposé." See <<foreign-words,Foreign words>> for this standard's own italicization rule, which differs from a house style that sets no foreign word in italics at all.
+
+forego, forgo:: "Forego" means go before; "forgo" means go without.
+
+forever, for ever:: "Forever" means continually: "he is forever changing his mind." "For ever" means for always: "I will love you for ever." See also <<commonly-confused-words,Commonly confused words>>.
+
+forgivable::
+
+formula one:: For motor racing; not "Formula One" or "F1."
+
+fortuitous:: By chance, accidental; not "by good fortune, lucky." See also <<commonly-confused-words,Commonly confused words>>.
+
+Fourth of July:: American Independence Day.
+
+foxhunting::
+
+fractions:: "Two-thirds," "three-quarters." But "two and a half." See also <<numbers-dates-and-units,Numbers, dates, and units>>.
+
+Frankenstein:: The monster's creator, not the monster.
+
+freeform::
+
+french kiss, french leave, french letter, french polish, french window::
+Lowercase "french" in these set phrases.
+
+fresco:: Plural "frescoes."
+
+freudian slip::
+
+Friends of the Earth:: Abbreviate to "FoE" after first mention.
+
+fuel:: Overused as a verb. See also <<overused-words,Overused words>>.
+
+fulsome:: Means "cloying, excessive, disgusting by excess." It is not a more elaborate word for "full." See also <<commonly-confused-words,Commonly confused words>>.
+
+fundraiser, fundraising::
+
+future-proof::
+
+=== Food and drink terms
+
+A supplementary A-Z of food, drink, and culinary terms, kept separate from the main glossary above because it is domain vocabulary rather than general-purpose usage guidance — relevant chiefly to documentation that discusses food, catering, or hospitality software.
+
+al dente:: A term, meaning "to the bite," used to describe the correct degree of doneness for pasta and vegetables. Avoid using this term as a cliche for "perfect."
+
+alfredo:: A pasta sauce originally consisting of butter, cream, and parmesan cheese.
+
+allemande:: A sauce made of veloute (usually veal), a liaison, and lemon juice.
+
+angelica:: Licorice-flavoured stalks, candied and used in pastry-making; also used to flavour liqueurs.
+
+antipasto:: The Italian word for snacks served before a meal — cured meats and salamis, olives, marinated vegetables, cheese.
+
+arrowroot:: A starch similar in appearance and qualities to cornstarch.
+
+artichoke:: A name shared by three unrelated plants: the globe artichoke, Jerusalem artichoke, and Chinese (or Japanese) artichoke.
+
+aubergine:: The French word for eggplant; prefer "aubergine."
+
+Babybel cheese:: Note the uppercase brand name.
+
+baekenhofe:: An alsacienne stew of pork, lamb, and beef layered with potatoes and onions.
+
+bakewell tart::
+
+bangers:: British colloquial for sausages; prefer "sausages," though "bangers and mash" is fine as a dish name.
+
+barolo wine::
+
+basquaise:: Food prepared in the Basque style, often including tomatoes and sweet or hot red peppers.
+
+bearnaise:: The most notable of the hollandaise sauce variations.
+
+beef wellington:: Beef and mushrooms wrapped in puff pastry.
+
+Bell's whisky::
+
+bete noire:: A rich flourless chocolate cake; no accents.
+
+biscotti:: Dry Italian cookies flavoured with almonds, chocolate, or anise seed.
+
+bourguignonne:: Food cooked in the style of Burgundy — red wine, mushrooms, pearl onions, bacon.
+
+Boddingtons:: A beer.
+
+bordeaux:: A wine; lowercase.
+
+bran:: The outer husk of grains such as wheat.
+
+bruschetta:: Garlic bread.
+
+brussels sprouts:: Note the lowercase spelling.
+
+calamari:: The Italian word for squid.
+
+canape:: Small open-faced sandwiches served as snacks; may be called "sandwiches" instead.
+
+cannelloni:: An Italian dish of pasta sheets or tubes filled with meat, cheese, or fish.
+
+caper:: The pickled bud of the caper bush, used in sauces and as a condiment for smoked fish and niçoise salad.
+
+capicolla:: A coarse Italian pork sausage.
+
+capsicum:: The family name for sweet and hot peppers.
+
+carbonara:: A rich pasta sauce of pancetta, eggs, and parmesan cheese; "carbonara pasta sauce."
+
+carpaccio:: An Italian dish of paper-thin beef slices dressed with olive oil and parmesan cheese.
+
+caster sugar:: But "castor oil."
+
+caviar:: Not "caviare."
+
+chablis:: A wine; lowercase.
+
+chai:: The Indian name for tea, often served with milk and sugar; call it "Indian tea."
+
+chantilly:: Sweetened whipped cream flavoured with vanilla.
+
+chardonnay:: See "chardonnay" above.
+
+chapati:: A whole wheat Indian flatbread; "chapati bread."
+
+cheddar, cheshire:: Cheeses; lowercase.
+
+chicken tikka masala::
+
+chutney:: A large range of sauces or relishes used in East Indian cooking.
+
+clotted cream:: A Devonshire specialty, also known as "Devon cream," but write "clotted cream."
+
+cock-a-leekie:: A thick Scottish soup of chicken, leeks, and barley.
+
+cocoa powder:: The dried powder formed from chocolate liquor after reducing the cocoa butter content.
+
+coconut milk:: Not the liquid found in the centre of a coconut, but a thick liquid made by steeping fresh grated coconut in hot water.
+
+cornish pastry::
+
+courgette:: The French word for zucchini.
+
+couscous:: A pasta made from semolina; also the dish in which semolina or cracked wheat is steamed while meat, vegetables, chickpeas, and raisins simmer beneath.
+
+crackling:: Crispy pieces of skin remaining after fat is rendered — pork, duck, or goose.
+
+cream:: The portion of milk that rises to the top when the milk has not been homogenized.
+
+creme anglaise:: A custard of milk and eggs, used as a dessert sauce or a mousse base.
+
+creme caramel:: A baked custard flavoured with caramel, like the Spanish flan.
+
+crepe:: A very thin pancake used for sweet and savoury fillings.
+
+croque-monsieur:: The French grilled ham and cheese sandwich, made with Gruyere.
+
+croquette:: A thick patty of cooked foods.
+
+crostini:: Toasted bread slices brushed with olive oil and served with a topping — tomatoes, pumate, cheese, chicken liver mousse, bean puree, or tapenade.
+
+croutons:: Bread cut into small pieces and toasted or fried until crisp.
+
+cumberland sauce:: An English sauce for ham, game, and pâtés; note the lowercase spelling.
+
+curry powder:: A spice mix.
+
+cuttlefish:: A cousin to the squid.
+
+dim sum:: A selection of small dishes served for snacks and lunch in China.
+
+dover sole::
+
+eccles cake:: From Eccles, Lancashire.
+
+escalope:: A thinly sliced food, similar to a scallopine — meat, fish, or vegetables.
+
+falafel:: A Middle Eastern dish of small, deep-fried croquettes of spiced, ground chickpeas, usually served in pita bread.
+
+florentine:: Describes food cooked in the style of Florence, most commonly associated with spinach; "steak Florentine" is a T-bone steak with olive oil, garlic, and lemon.
+
+focaccia:: An Italian flatbread made with pizza or bread dough, plain or topped.
+
+foie gras:: Literally "goose liver," but used for the fattened liver of both duck and geese.
+
+fondue:: Several types exist; cheese fondue is the most notable, a Swiss specialty.
+
+fritter:: Food dipped in batter and deep-fried or sautéed.
+
+gelato:: An Italian frozen dessert made of whole milk and eggs.
+
+goulash:: A Hungarian soup or stew of beef, liberally seasoned with paprika.
+
+granola:: Toasted grain (oats), dried fruit, and nuts, usually a breakfast cereal.
+
+guacamole:: A dip of mashed avocado, onions, tomatoes, chiles, and cilantro.
+
+hollandaise sauce:: The most basic of the egg-and-oil emulsified sauces, flavoured with fresh lemon juice.
+
+licorice::
+
+kebab:: Skewers of meat, fish, or vegetables grilled over a fire.
+
+madeira:: A wine and a cake.
+
+marzipan:: An almond paste with egg whites, kneaded smooth and used to wrap or layer cakes and candies.
+
+meatloaf::
+
+meringue:: Whipped egg whites with sugar, forming a stiff paste, used to lighten mousses, cakes, and pastry creams.
+
+mincemeat:: A sweet, spicy mixture of candied and fresh fruits, wine, spices, and beef fat.
+
+minestrone:: An Italian vegetable soup with beans and pasta or rice.
+
+mousse:: A sweet or savoury dish of blended, folded ingredients.
+
+nougat:: A candy of sugar and honey mixed with nuts.
+
+nutella:: Trademark; a commercial brand of gianduja.
+
+omelette::
+
+paella:: A Spanish rice dish originating in Valencia; rice, tomatoes, and saffron are the essential ingredients.
+
+pate:: A French term for pastes or pastry; write without accents.
+
+peking duck::
+
+penne:: Quill-shaped pasta tubes with smooth sides.
+
+Pimm's::
+
+pita bread:: Flat round bread, with or without a pocket.
+
+poppadom::
+
+profiterole:: A small puff of pâte à choux, usually filled and served as an appetizer.
+
+quiche::
+
+quince::
+
+ratatouille::
+
+ravioli::
+
+risotto::
+
+sangria::
+
+satay::
+
+sea urchin:: A round spiny creature found off the coasts of Europe and America; only the coral is eaten, usually raw with lemon juice.
+
+shortbread:: One word.
+
+skate wings:: The edible portion of the skate.
+
+soy sauce::
+
+spring roll::
+
+stock:: A flavoured broth from meat, fish, shellfish, or vegetables — the basis of sauce- and soup-making.
+
+sweetbread:: The culinary term for the thymus gland of an animal.
+
+tagliatelle::
+
+tartare::
+
+temazepam::
+
+tiramisu::
+
+toad in the hole::
+
+tofu::
+
+tortellini:: A stuffed pasta of small rounds of dough twisted into dumplings.
+
+tortelloni:: The larger version of tortellini.
+
+tortilla:: A thin pancake of cornmeal or flour.
+
+tripe:: The stomach of beef, pork, or sheep.
+
+truffle::
+
+turkish delight::
+
+vanilla:: A plant native to Mexico, whose pod is used to make culinary extracts.
+
+vinaigrette:: A sauce for dressing salads, made of oil and vinegar.
+
+welsh rarebit:: Often confused with "Welsh rabbit"; a cheese sauce made with ale and seasoned with dry mustard, black pepper, and Worcestershire sauce, traditionally served over toast.
+
+whisky:: Plural "whiskies"; but Irish and US "whiskey."
+
+worcestershire sauce:: Lowercase; a condiment of anchovies, tamarind, vinegar, molasses, and cloves.
+
+yeast:: A fungus used in the production of bread and beer.
+
+yorkshire pudding::

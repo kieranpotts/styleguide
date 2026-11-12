@@ -1,0 +1,233 @@
+= P
+
+Pacific Ocean::
+
+Palme d'Or:: Awarded at the Cannes film festival.
+
+Pandora's box::
+
+panel, panelled, panelling::
+
+papier-mache::
+
+paralleled::
+
+parentheses:: See <<Dashes>> for this standard's own preference for the em dash over parenthetical brackets. Square brackets are used within a direct quote only to interpolate essential context the writer of the quote did not supply.
+
+Parkinson's disease::
+
+Parkinson's law::
+
+parliament, parliamentary::
+
+Parthenon marbles::
+
+party:: Lowercase in the name of a political organization, eg "Labour party."
+
+passer-by:: Plural "passers-by."
+
+passive voice:: See <<voice-and-tense,Voice and tense>>.
+
+password::
+
+pasteurise::
+
+payback, payday, payout::
+
+peacetime::
+
+pedaller, peddler, pedlar:: "Pedaller" is a cyclist; "peddler" is a drug dealer; "pedlar" is a hawker. See also <<commonly-confused-words,Commonly confused words>>.
+
+peer-to-peer::
+
+pendant, pendent:: "Pendant" (noun); "pendent" (adjective). See also <<commonly-confused-words,Commonly confused words>>.
+
+peninsula, peninsular:: "Peninsula" (noun); "peninsular" (adjective).
+
+penknife::
+
+pensioners:: Do not call them "old age pensioners" or "OAPs." Do not use "elderly" for someone under 70.
+
+per:: Avoid; prefer plain English: "she earns £30,000 a year" is better than "£30,000 per year." Exception: "miles per hour," abbreviated "mph."
+
+percentages:: Write "70%." If the word must be spelled out, write "percent," one word, not "per cent."
+
+percentage rises:: A common source of error. An increase from 3% to 5% is a "2 percentage point increase" or a "2-point increase" — it is not a "2% increase," since a 2% increase on 3% would be 3.06%. See also <<numbers-dates-and-units,Numbers, dates, and units>>.
+
+permissible::
+
+persons:: Prefer "people."
+
+Perspex:: Trademark.
+
+phenomenon:: Plural "phenomena."
+
+Philips:: An electronics company.
+
+Phillips:: A screwdriver.
+
+philistine::
+
+Phnom Penh::
+
+phone:: No apostrophe; "telephone" is rarely necessary.
+
+phone numbers:: Format as, eg, "01225 585 000" (area code + 6-digit number); "020 8585 0000" (London's area code is always "020"). Always include the area code. Only include the country code for a number in a different country.
+
+phosphorous, phosphorus:: "Phosphorous" (adjective); "phosphorus" (noun).
+
+photocopy:: Not "Photostat" or "Xerox" (trademarks).
+
+photo-scanning::
+
+Photoshop::
+
+piecework::
+
+pigeonhole:: Verb or noun.
+
+pigsty:: Plural "pigsties."
+
+Pilates:: Capitalized.
+
+pin, pin number:: Not "Pin" or "PIN number."
+
+placename::
+
+placenames and venues:: A representative list of commonly misspelled or mishandled place names and venues: "Andalucia"; "Asunción" (capital of Paraguay); "Ardoyne" (Belfast), not "the Ardoyne"; "Barons Court"; "Bombay" is now "Mumbai" — write "Mumbai (formerly Bombay)" at first mention, then "Mumbai"; "Burma" is now "Myanmar" — write "Myanmar (previously Burma)" at first mention, then "Burma"; "Burton on Trent"; "Caribbean"; "Coliseum" (London theatre) vs "Colosseum" (Rome); "Derry" or "Co Derry," not "Londonderry"; "Earls Court," no apostrophe; "East Anglia"; "East End," inner east London north of the river; "eastern Europe," "western Europe"; "East Riding of Yorkshire council"; "Eire" should not be used — write "Republic of Ireland" or "Irish Republic"; "the Embankment" (London); "the equator"; "far east," but "Middle East"; "Fife," not "Fyfe"; "the Gambia," not "Gambia"; "the Gulf," not "the Persian" or "Arabian Gulf"; "Haringey" (North London borough); "the Highlands" (Scotland); "Ho Chi Minh City" (formerly Saigon); "Holland" should not stand in for "the Netherlands"; "home counties"; "Ivory Coast," not "the Ivory Coast" or "Côte D'Ivoire"; "King's Cross"; "King's Lynn"; "the Lakes," "Lake District"; "House of Lords"; "Lord's" (cricket ground); "Luxembourg"; "Málaga"; "Mallorca," not "Majorca"; "Marrakech"; "Marseille," not "Marseilles"; "Mecca" (in Saudi Arabia); "Middle East"; "Middlesbrough," not "Middlesborough"; "Midlands" ("east Midlands" but "East Midlands airport," "West Midlands"); "midwest" (US); "the Millennium Dome" at first mention, then "the dome"; "the National Archives"; "the Netherlands," not "Holland," which is only part of the country — the adjective is "Dutch"; "Newcastle-under-Lyme"; "Newcastle upon Tyne"; "New York City," "New York state"; "northern hemisphere"; "north pole"; "Orkney," not "the Orkney Isles" or "the Orkneys"; "Peak District"; "Pearl Harbor" — use American spellings for US place names; "Philippines," inhabited by "Filipinos" (male) and "Filipinas" (female), adjective "Filipino" for both, but "Philippine" for a place ("a Philippine island"); "Potters Bar"; "Regent's Park"; "Royal Academy of Arts" (then "the Royal Academy"); "Sadler's Wells"; "St Andrews University," no apostrophe; "Sao Paulo," not "Sao Paolo"; "Savile Row"; "Scandinavia" — Norway, Sweden, Denmark, and Iceland, not Finland; "Shankill Road" (Belfast); "Shetland," or "the Shetland Isles," but never "the Shetlands"; "Shoreham-by-Sea"; "Stansted airport"; "strait of Dover," "strait of Hormuz"; "Tenerife"; "Ukraine," not "the Ukraine"; "University College London," no comma, "UCL" after first mention; "V&A" for "Victoria and Albert Museum"; "west," "western," "the west," "western Europe"; "West Country"; "Westminster Abbey"; "Windermere," not "Lake Windermere"; "Yemen," not "the Yemen"; "Yorkshire" — "North Yorkshire," "South Yorkshire," "West Yorkshire," but "east Yorkshire." See also "geography."
+
+plaster of paris::
+
+plateau:: Plural "plateaux."
+
+playbill, playgoer, playwright::
+
+play-off::
+
+plc:: Not "PLC."
+
+plug-and-play::
+
+plug-in::
+
+pocketbook, pocketknife::
+
+Pocket PC:: A Microsoft product.
+
+poet laureate::
+
+point-and-click::
+
+pointe:: Ballet: "on pointe," not "on point" or "en pointe."
+
+point-to-point::
+
+Pokemon:: No accents.
+
+Polari:: A form of language used mostly by gay men and lesbians, derived in part from slang used by sailors, actors, and prostitutes; treat it as you would other colloquialisms and slang.
+
+pop art::
+
+the Pope:: But "the pontiff," lowercase.
+
+pop-out::
+
+pop-up::
+
+Portakabin:: Trademark.
+
+Post-It:: Trademark.
+
+postcode::
+
+postgraduate::
+
+postmodern, postmodernist::
+
+post-mortem::
+
+Post Office:: Capitalize when referring to the organization; lowercase "post office" for a generic shop that deals with mail.
+
+postwar::
+
+practice, practise:: "Practice" (noun); "practise" (verb). See also <<commonly-confused-words,Commonly confused words>>.
+
+precis:: Singular and plural.
+
+pre-eminent, prefab, prefabricated::
+
+premiere:: For film; no accent.
+
+Premiership:: For English football (the FA Premier League is the governing body, not the competition); in Scotland, "the Premier League."
+
+premises:: Of buildings and logic.
+
+preproduction::
+
+prepositions:: It is a myth, not a grammar rule, that a sentence must not end with a preposition.
+
+pre-Raphaelite::
+
+presently:: Means "soon," not "at present." See also <<commonly-confused-words,Commonly confused words>>.
+
+president:: Lowercase except in a title: "President Bush," but "George Bush, the US president."
+
+the press:: Or "the media."
+
+pressurised:: Avoid; use "pressured," "put pressure on," or "pressed."
+
+preteen:: No hyphen.
+
+preventive:: Not "preventative."
+
+prewar::
+
+pricey::
+
+prima donna:: Plural "prima donnas."
+
+principal, principle:: "Principal" means first in importance, or the most senior person; "principle" means a standard of conduct.
+
+prime minister::
+
+Prince of Wales:: First mention; thereafter "the prince" plus the current name.
+
+printout::
+
+Pritt Stik:: Trademark.
+
+prizes:: Lowercase "p": "Booker prize," "Nobel prize," "Whitbread prize."
+
+probe:: A dental implement, not an inquiry or investigation.
+
+prodigal:: Means wasteful or extravagant, not "a returned wanderer" — the confusion arises from the biblical parable of the prodigal son. See also <<commonly-confused-words,Commonly confused words>>.
+
+profile:: A noun, not a verb.
+
+program:: For computing; otherwise "programme."
+
+propeller::
+
+prophecy, prophesy:: "Prophecy" (noun); "prophesy" (verb).
+
+pros and cons::
+
+protege:: Male and female; no accents.
+
+protest:: "Against," "over," or "about."
+
+proviso:: Plural "provisos."
+
+Ps and Qs::
+
+Puffa:: Trademark; say "padded" or "quilted jacket," not "puffa jacket."
+
+pundit:: A self-appointed expert.
+
+purchase:: As a noun, but use "buy" as a verb.
+
+put, putt:: "Put" (athletics); "putt" (golf). See also <<commonly-confused-words,Commonly confused words>>.
+
+pygmy:: Plural "pygmies"; lowercase except for members of the Equatorial African ethnic group.
+
+Pyjamas::

@@ -1,0 +1,139 @@
+= A
+
+a, an:: Use "an" if the "h" is silent: "an hour," "an heir," "an honourable man," "an honest woman"; but "a hero," "a hotel," "a historian."
+
+abbeys:: Capitalize: "Westminster Abbey."
+
+Aborigines, Aboriginal:: Capitalize when referring to native Australians, lowercase when referring to indigenous populations in general.
+
+about:: Preferred to "approximately" in casual use; see also "approximately."
+
+abscess::
+
+abysmal::
+
+abyss::
+
+accept, except:: "Accept" is to receive something, or to give admittance or approval to. "Except," from "exception," means the exclusion of something.
+
+accommodate, accommodation::
+
+achilles heel, achilles tendon:: Not "Achilles."
+
+acknowledgment:: Not "acknowledgement."
+
+actor:: Male and female. Avoid "actress" except in the name of an award, eg "Oscar for best actress."
+
+AD, BC::
+
+adaptation:: Not "adaption."
+
+addresses:: In this format: "1 Queen Square, Bath, BA1 2HN." Keep as short as possible, so avoid including counties unless absolutely necessary.
+
+adrenaline:: A hormone that increases heart rate and blood pressure. "Adrenalin" is a trademark.
+
+aeroplane:: Not "airplane."
+
+affect, effect:: These are not homophones. "Affect" (verb) is to influence something. "Effect" (noun) is the result of a change; "effect" (verb) means to bring something about. See also <<commonly-confused-words,Commonly confused words>>.
+
+affinity:: "With" or "between," not "to" or "for."
+
+aficionado:: Plural: "aficionados."
+
+African-Caribbean:: Not "Afro-Caribbean."
+
+ageing::
+
+ages:: "Tony Blair, 51," not "aged 51." "Little Johnny, four." "The woman was in her 20s." But "twentysomething," "fortysomething."
+
+aggravate:: To make worse, not to annoy.
+
+ahead of:: Avoid; use "before" or "in advance of."
+
+airbase, aircrew, airdrop, airlift, airmail, aircraft carrier:: But "air raid," "air strike."
+
+alibi:: Being somewhere else; not synonymous with "excuse."
+
+A-list, B-list:: Cliched way to refer to celebrities; avoid.
+
+Allah:: Arabic for "the God" (al-Lah). Both "God" and "Allah" refer to the same concept; there is no major difference between God in the Old Testament and Allah in Islam. It therefore makes sense to use "God" in a general or Christian context and "Allah" in quotations from, or in the context of, Islam.
+
+allot, allotted::
+
+all right:: Correct. "Alright" is not.
+
+al-Qaida::
+
+AltaVista::
+
+alternative:: Strictly, a choice between two courses of action; where there are more than two, "option" or "choice" may be preferred.
+
+Americanisms:: Avoid Americanisms and American spellings in a British-style document: "additionally" → "and"; "automobile" → "car"; "anymore" → "any more"; "color" → "colour" (but "discolour," "discoloration"); "corporation" → "company"; "courtroom" spelled as such (not "courtoom"); "customize" → "customise"; "digitize" → "digitise"; "fatality" → "death"; "figure out" → "work out"; cars are "hired," not "rented"; "military" → prefer "the army"; "program" is for computers, "programme" for everything else; children are "brought up," not "raised" (cattle and pigs are "raised"); "regular" is not a synonym for "ordinary" or "normal"; "tad" → "a bit"; "train station" → "railway station"; "transportation" → "transport." This is a British-style convention; this standard's own default is American spelling — see the section introduction.
+
+America's Cup::
+
+Amhrán na bhFiann:: The Irish national anthem.
+
+amid:: Not "amidst." Also prefer "among" to "amongst," "while" to "whilst," and so on.
+
+amok:: Not "amuck."
+
+among:: Not "amongst."
+
+among or between:: "Between" is not limited to two parties; it is appropriate when the relationship is essentially reciprocal: "disagreements between the many shareholders." "Among" belongs to distributive relationships: "shared among."
+
+ampersand (&):: Use in a company name when the company does: "Marks & Spencer," "P&O." Otherwise, do not use it.
+
+analog:: For computing and data; "analogue" for sound.
+
+antenna:: "Antenna" (insect), plural "antennae"; "antenna" (radio), plural "antennas."
+
+anticlimax::
+
+antihero::
+
+antisocial::
+
+any more:: Not "anymore" (US usage).
+
+apostrophes:: Some plural nouns have no "s," eg "children"; these take an apostrophe and "s" in the possessive, eg "children's games," "gentlemen's outfitter." The possessive of a word or name ending in "s" normally takes an apostrophe followed by a second "s" ("Jones's," "James's"), but be guided by pronunciation and use only the apostrophe where that reads better: "Mephistopheles'" rather than "Mephistopheles's." Use an apostrophe in a phrase such as "in two days' time," "12 years' imprisonment," and "six weeks' holiday," where the time period modifies a noun, but not in "nine months pregnant" or "three weeks old," where the time period is adverbial. If in doubt, test with a singular such as "one day's time," "one month pregnant." See also <<Apostrophes>>.
+
+appal, appalling::
+
+apples:: Lowercase: "cox's orange pippin," "golden delicious," "granny smith."
+
+approximately:: Never "approx"; prefer "about" in less formal contexts.
+
+aquarium:: Plural "aquariums."
+
+Arab, Arabic:: "Arab" is both a noun and an adjective, and the preferred adjective when referring to Arab things in general, eg "Arab history." "Arabic" usually refers to the language and literature: "the Arabic press" means newspapers written in Arabic, while "the Arab press" would include newspapers produced by Arabs in other languages.
+
+archbishop:: "The Archbishop of Canterbury"; "the Archbishop of Westminster"; or "archbishop(s)" when talking about them generally. Likewise "the Archdeacon of Farrington," or "the archdeacon."
+
+arguably:: One of the most overused words in the language. Avoid it. See also <<overused-words,Overused words>>.
+
+armed forces, armed services, the army:: "The British army," "the navy," but "Royal Navy," "Royal Air Force" ("RAF" is fine unexpanded).
+
+around:: Do not use when you mean "about," eg "about £1m" or "about 2,000 people."
+
+artefact::
+
+artist:: Never "artiste."
+
+art movements:: Usually lowercase: "art deco," "art nouveau," "cubism," "dadaism," "gothic," "impressionism," "pop art," "surrealism." Exceptions: "Bauhaus," "Modern," "pre-Raphaelite," "Romantic."
+
+the Arts Council::
+
+aspirin::
+
+assure:: See "ensure, insure, assure."
+
+autumn::
+
+avant garde:: No hyphen.
+
+awards, prizes, medals:: Generally lowercase, eg "the Friday at 5 restaurant awards," "Nobel peace prize." Two exceptions: "the Academy Awards," "Victoria Cross." Award categories are also lowercase: "best actor Oscar."
+
+awe-inspiring:: Overused, and rarely apt; avoid. See also <<overused-words,Overused words>>.
+
+Ayers Rock:: See "placenames."

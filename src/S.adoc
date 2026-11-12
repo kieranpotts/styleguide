@@ -1,0 +1,253 @@
+= S
+
+Saatchi::
+
+Safeway:: Now "Morrisons."
+
+Sainsbury's:: For the stores; the company's name is "J Sainsbury plc."
+
+Saints:: In running text, spell in full: "Saint John," "Saint Paul." For town and church names, abbreviate: "St" (no point), eg "St Mirren," "St Stephen's church."
+
+St John Ambulance:: Not "St John's," and no need for "Brigade."
+
+saleable::
+
+Salvation Army:: Never "the Sally Army."
+
+scalable:: Not "scaleable."
+
+schoolboy, schoolgirl, schoolchildren, schoolroom::
+
+schoolteacher::
+
+schools:: Lowercase the type of school after a proper name, eg "Alfred Salter primary school."
+
+school years:: "Year 2," "year 10," "key stage 1."
+
+science fiction:: Not "sci-fi."
+
+ScotchTape:: Trademark; say "sticky tape."
+
+scotch whisky, scotch mist::
+
+Scotland Office:: Not "Scottish Office."
+
+Scottish executive::
+
+Scottish parliament:: Members are "MSPs."
+
+scottish terrier::
+
+scouse, scouser:: Avoid.
+
+screamers:: See <<exclamation-and-question-marks,Exclamation and question marks>>.
+
+screen edge::
+
+screen-grab, screen-grabber::
+
+screensaver::
+
+screenshot::
+
+seas, oceans:: See "geography."
+
+seacoast, seaplane, seaport, seashore, seaside::
+
+seaweed::
+
+sea change, sea level, sea serpent, sea sickness::
+
+seal pups::
+
+seasons:: "Spring," "summer," "autumn," "winter" — all lowercase.
+
+second hand, second-hand:: "Second hand" of a clock; "second-hand" for previously owned.
+
+self-control, self-defence, self-esteem, self-respect::
+
+Sellotape:: Trademark; say "sticky tape."
+
+senior:: Abbreviate to "Sr," not "Sen" or "Snr," eg "George Bush Sr."
+
+September 11:: "9/11" is acceptable. Dates are usually written "11 September," but this specific date is conventionally written the American way, "September 11."
+
+the services:: Or "the armed forces."
+
+setback::
+
+set-up, set up:: "Set-up" (adjective and noun); "set up" (verb). Never "setup."
+
+shakeout, shakeup::
+
+Shakespearean::
+
+shareholder::
+
+sheepdog::
+
+sheikh::
+
+ships:: Not feminine — "it ran aground," not "she ran aground."
+
+shipbuilding, shipbuilder, shipmate, shipowner, shipyard::
+
+shoo-in:: Not "shoe-in."
+
+shoot-'em-up::
+
+shopkeeper::
+
+shortcut::
+
+shortlist::
+
+Siamese twins:: Do not use; see "conjoined twins."
+
+side-effects::
+
+sidestreet::
+
+silicon, silicone:: "Silicon" is for computer chips; "silicone" is for breast implants. See also <<commonly-confused-words,Commonly confused words>>.
+
+Singin' in the Rain::
+
+singular or plural:: A common mistake is to refer to a company or a local government agency in the plural: "Virgin Mobile have sponsored." A single company is singular: "Virgin Mobile has sponsored." Sports teams take plural verbs: "Wednesday were relegated again"; but in a business context a sports club is singular like any other company, eg "Leeds United posted a financial loss." See also <<collective-nouns,Collective nouns>>.
+
+Sinn Féin::
+
+sizeable::
+
+ski, skis, skier, skied, skiing::
+
+slidable:: Not "slideable."
+
+smallholding::
+
+Smartphone::
+
+Smithsonian Institution:: Not "Institute."
+
+snowplough::
+
+socialism, socialist::
+
+sod's law::
+
+Solar System::
+
+Sotheby's::
+
+soundbite::
+
+soundcard:: A computer component.
+
+south:: "South London," "south-west England," "the south-east": all lowercase.
+
+South Bank::
+
+southern hemisphere::
+
+south pole::
+
+spaghetti western::
+
+span of years:: See "dates."
+
+spastic:: Do not use.
+
+the Speaker:: For the House of Commons; but "deputy speaker" (of whom there are several).
+
+special:: Usually redundant. See also <<overused-words,Overused words>>.
+
+specification:: Not "spec."
+
+spelled, spelt:: Either works; prefer "spelt."
+
+spicy:: Not "spicey."
+
+Spider-Man::
+
+split infinitives:: It is acceptable to sensibly split an infinitive, and stubbornly avoiding it can sound awkward or introduce ambiguity: "the workers are declared strongly to favour a strike" leaves it unclear whether the declaration or the favouring is strong.
+
+spoiled, spoilt:: "She spoiled her son"; "he was a spoilt brat."
+
+spokesman, spokeswoman:: Prefer "spokesperson."
+
+spoonful:: Plural "spoonfuls."
+
+springboard::
+
+standalone::
+
+stand-by, stand by:: "Stand-by" (adjective); "stand by" (verb).
+
+start-up::
+
+state of the union address:: US usage.
+
+stationary, stationery:: "Stationary" means not moving; "stationery" means writing materials. See also <<commonly-confused-words,Commonly confused words>>.
+
+steadfast::
+
+steamboat, steamship, steam engine, steamhammer::
+
+step change:: "Change" is usually adequate on its own.
+
+stepfather, stepmother::
+
+sterling:: The pound.
+
+sticky-back plastic::
+
+stiletto:: Plural "stilettos."
+
+still life:: Plural "still lifes."
+
+stilton::
+
+stock market, stock exchange::
+
+stopgap::
+
+straightforward::
+
+streetwise::
+
+strippergram::
+
+stumbling block::
+
+subcommittee, subcontinent, subeditor, sublet::
+
+sublieutenant, submenu, subplot, subsection::
+
+sublicense::
+
+submarines:: Are boats, not ships.
+
+suchlike::
+
+sudoku::
+
+summer::
+
+supermodel:: Overused; "model" is usually sufficient.
+
+supersede::
+
+sure-fire::
+
+Sure Start::
+
+surge:: Prefer "rise" or "increase" where that is the meaning.
+
+surrealism, surrealist::
+
+swap:: Not "swop."
+
+swearwords:: Do not use.
+
+swingeing::
+
+synthesis, synthesise, synthesiser::

@@ -1,0 +1,267 @@
+= C
+
+cabin attendant, flight attendant, cabin crew, cabin staff:: Not "air hostess," "air stewardess."
+
+Caesars Palace:: No apostrophe.
+
+cafe:: No acute accent.
+
+call centre::
+
+Calor:: Trademark; prefer "camping gas."
+
+Campari:: Trademark.
+
+canon, cannon:: A "canon" is a cleric, a decree, a principle, a body of writings, or a type of music; you fire a "cannon."
+
+canvas, canvass:: "Canvas" is the fabric (a tent, a painting); "canvass" is to solicit votes.
+
+capital letters:: Initial caps for the names of artistic and cultural institutions ("British Museum," "Tate Modern"). For churches, hospitals, and schools, capitalize the proper or place name and lowercase the rest ("Great Ormond Street children's hospital," "St Peter's church"). For universities and colleges, capitalize the institution and lowercase the department ("Sheffield University department of medieval and modern history"). Geographical features and bridges are always lowercase ("river Thames," "the Wash," "Golden Gate bridge," but "Mount Everest"). Words based on proper names that have lost their connection to the origin ("alsatian," "cardigan," "champagne," "french windows") are usually lowercase. Job titles are all lowercase ("prime minister," "US secretary of state"); differentiate a title from a job description ("President Bush," but "the US president, George Bush," and "Mr Bush" on later mention). British government departments and agencies take initial capitals only when citing the actual title ("Home Office," "Foreign Office," but "foreign ministry"). Acts of Parliament take initial caps; bills do not, until enacted ("the criminal justice bill" becomes "the Criminal Justice Act").
+
+cappuccino::
+
+cards:: "Scratchcard," "smartcard," "swipecard," but "credit card," "debit card."
+
+career girl, career woman:: Avoid; outdated and has no male equivalent.
+
+cashmere:: Fabric. "Kashmir" is a place.
+
+caster, castor:: "Caster" sugar; "castor" oil.
+
+castoff:: One word (noun and adjective); "cast off" (two words) is the verb.
+
+catchphrase::
+
+catch-22:: Lowercase unless specifically referring to Joseph Heller's novel "Catch-22."
+
+cathedrals:: Capitalize: "Canterbury Cathedral."
+
+the Catholic church::
+
+CD, CDs, CD-Rom, CD-R, CD-RW::
+
+celsius, centigrade:: See "temperatures."
+
+Celtic:: Not "Glasgow Celtic."
+
+censor, censure:: "To censor" is to prevent publication; "to censure" is to criticize severely.
+
+Center Parcs::
+
+centre:: "On" or "in"; "revolve around."
+
+centuries:: See "dates."
+
+chair:: Acceptable in place of "chairman" or "chairwoman."
+
+Channel 4, Channel Five:: But "Five" at second mention.
+
+Channel tunnel:: Never "Chunnel."
+
+chard, charred:: "Chard" is a salad leaf related to beetroot; "charred" means burnt.
+
+chardonnay:: Lowercase, like other wines, whether named after a grape or a region.
+
+chateau, chateaux::
+
+Chatham House rule:: Often mistakenly called "rules" — there is just one: "When a meeting, or part thereof, is held under the Chatham House rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed." Chatham House is more formally the Royal Institute of International Affairs, based at Chatham House in London.
+
+chatroom::
+
+chatshow:: And "talkshow," "gameshow."
+
+checkout:: Noun and adjective; "check out" is the verb.
+
+check, cheque:: "Cheque" is used to pay for something; "check" covers every other sense.
+
+chief constable:: A job, not a title: "John Smith, chief constable of Greater Manchester."
+
+childcare::
+
+childminder::
+
+chitchat::
+
+chock-a-block::
+
+choose:: "Chose" is the past tense.
+
+chord, cord:: "Chord" is musical; "cord" is a vocal cord, or rope.
+
+christened, christening:: Use only for a Christian baptism.
+
+Christian, Christianity:: But "unchristian."
+
+Christian name:: Write "first name" or "forename" instead.
+
+Christian Union:: An evangelical Christian organization.
+
+Christie's::
+
+Christmas Day, Christmas Eve::
+
+chronic:: Means lasting for a long time or constantly recurring; often misused when "acute" (short but severe) is meant. See also <<commonly-confused-words,Commonly confused words>>.
+
+church:: Lowercase for the established church in general ("the church is no longer relevant today"); "Catholic church," "Anglican church," but "Church of England."
+
+cineaste:: Someone who enjoys films; in French, a "cinéaste" is someone who makes them. Prefer "cinemagoer."
+
+city:: In Britain, a town that has been granted a charter by the crown; it usually has a cathedral.
+
+City:: Capitalize when used as shorthand for the City of London.
+
+classical music:: "Mozart's 41st Symphony (or Symphony No 41) in C, K551"; "Rachmaninov's Piano Concerto No 2"; "Schubert's Sonata in A minor for Piano, D845."
+
+clearcut::
+
+codename::
+
+cliches:: Avoid cliches. Common examples: "back burner," "ball in your court," "bouquets and brickbats," "changing hands," "dog eat dog," "drop-dead gorgeous," "fly by night," "hands on/off," "go over your head," "in the black," "you scratch my back I'll scratch yours," "sweet sorrow," "talk shop," "time is money."
+
+cliffhanger::
+
+climbdown:: Noun; "climb down" is the verb.
+
+cloud cuckoo land::
+
+coalfield, coalmine, coalminer::
+
+Coalite:: Trademark.
+
+coarse fishing::
+
+coastguard::
+
+Coca-Cola, Coke:: Trademarks.
+
+cockney::
+
+coconut::
+
+cold war::
+
+collective nouns:: See <<collective-nouns,Collective nouns>>.
+
+College of Arms::
+
+colleges:: Take initial caps, eg "Fire Service College," but not when "college" forms part of the name of a school.
+
+colloquialisms and slang:: Avoid colloquialisms and slang generally.
+
+colons:: See <<Colons>>.
+
+colonel:: "Colonel Napoleon Bogey," subsequently "Col Bogey."
+
+comedian:: Male and female; do not use "comedienne."
+
+commas:: See <<Commas>>. Note also that "the subeditor, John Doe, is an expert on style" implies there is only one subeditor, while "the subeditor John Doe is an expert on style" (no commas) implies there is more than one.
+
+commented:: Avoid; prefer "said."
+
+Commons, House of Commons::
+
+common sense, common-sense:: "Common sense" (noun), "common-sense" (adjective).
+
+Commonwealth, the::
+
+communique:: No accent.
+
+company names:: Companies are singular: "Macromedia has dropped...," not "Macromedia have dropped..." Do not adopt a company's own typographic logo styling (all caps, unusual casing) where it is not itself an abbreviation. See also <<collective-nouns,Collective nouns>>.
+
+compare to, compare with:: "Compare to" means "liken to"; "compare with" means "make a comparison." Use "compare with" unless deliberately likening one thing to another.
+
+compass points:: Lowercase for regions: "the north," "the south-west," "north-east England"; the same applies to geopolitical areas: "the west," "western Europe," "the far east," "south-east Asia," "central America." Capitalize when part of the name of a county ("West Sussex," "East Riding of Yorkshire") or province ("East Java," "North Sulawesi"). Note: "East End," "West End" (London), "West Country," "Middle East," "Latin America," "North America."
+
+complement, compliment, complimentary:: "To complement" is to make complete; "to compliment" is to praise; "complimentary" as in "a complimentary copy" means free. See also <<commonly-confused-words,Commonly confused words>>.
+
+complete:: Prefer to "finalise."
+
+comprise:: To consist of; "comprise of" is wrong. See also <<commonly-confused-words,Commonly confused words>>.
+
+Congregational:: Uppercase when referring to the Congregational Union of England and Wales, formed in 1832, which joined the Presbyterian Church of England in 1972 to form the United Reformed church.
+
+conjoined twins:: Not "Siamese twins."
+
+Conservative party::
+
+consult:: Not "consult with."
+
+contemporary:: Of the same period, though often wrongly used to mean "modern"; a performance of Shakespeare in contemporary dress would involve Elizabethan costume, not 21st-century clothes.
+
+the continent:: Mainland Europe.
+
+continual:: Refers to things that happen repeatedly but not constantly; "continuous" indicates an unbroken sequence. See also <<commonly-confused-words,Commonly confused words>>.
+
+contractions:: See <<abbreviations-and-acronyms,Abbreviations and acronyms>>.
+
+conversions:: See "measurements and quantities."
+
+convince, persuade:: Having convinced someone of the facts, you might persuade them to do something. See also <<commonly-confused-words,Commonly confused words>>.
+
+cooperate, cooperation, cooperative:: No hyphen, but "the Co-op" (store).
+
+coordinate:: Not "co-ordinate."
+
+cord, chord:: See <<commonly-confused-words,Commonly confused words>>.
+
+corporation of London::
+
+corps de ballet::
+
+cortege:: No accent.
+
+councils:: Lowercase apart from the place name: "Rochester upon Medway council," "London borough of Southwark," "Kent county council."
+
+counter-attack::
+
+coupe:: No accent.
+
+courts:: All lowercase: "court of appeal," "high court," "supreme court," "magistrates court" (no apostrophe), "European court of human rights," "international criminal court."
+
+court martial:: Plural "courts martial."
+
+crescendo:: A gradual increase in loudness or intensity; musically or figuratively, it is the build-up to a climax, not the climax itself.
+
+cricket terms:: "Leg-side," "leg-spinner," "off-spin," "off-stump," "silly mid-on," "mid-off."
+
+criterion:: Plural "criteria."
+
+Crombie:: Trademark.
+
+the crown, crown estate, crown jewels::
+
+the crucifixion::
+
+Crufts::
+
+the Crusades::
+
+cubism, cubist::
+
+cul de sac::
+
+cumberland sausage::
+
+curb, kerb:: "To curb" is to restrain; a "kerb" is part of a pavement. See also <<commonly-confused-words,Commonly confused words>>.
+
+currencies:: The whole word is lowercase: "euro," "pound," "sterling," "dong." Abbreviate: "$50" (US dollars), "A$50" (Australian dollars), "HK$50" (Hong Kong dollars), "€40.00" (euros). Convert a foreign amount to a familiar currency in brackets at first mention.
+
+currently:: Usually redundant. If used, prefer "now." See also <<overused-words,Overused words>>.
+
+cusp:: A place where two points meet; sometimes misused to mean "on the brink."
+
+customise:: Not "customize" (US spelling). See also "Americanisms."
+
+cutbacks:: "Cuts" will suffice.
+
+cut-throat::
+
+cutting edge:: Noun; "cutting-edge" is the adjective.
+
+cyberspace::
+
+Czech Republic::
+
+== Countries and nationalities
+
+Favour simplicity over precision in most contexts: "Britain" rather than "Great Britain" or "the United Kingdom," "America" rather than "the United States." Where precision matters: "Great Britain" is England, Scotland, and Wales; together with Northern Ireland these make up "the United Kingdom." "The Netherlands," not "Holland" — Holland is only two of the country's provinces. "Ireland" on its own — it is a republic, but not "the Republic of Ireland," and not, in English, "Eire." "The United States" and "United States citizens" is sometimes needed for precision, since "Americans" also covers everyone from Canada to Cape Horn colloquially, if imprecisely. "EU" is fine after a first mention of "the European Union." "Scandinavia" primarily means Norway and Sweden, often extended to include Denmark and Iceland; with Finland, these make up "the Nordic countries." Respect a country's stated preference for its own name: "Côte d'Ivoire," "Myanmar," "Burkina Faso." Former Soviet republics: "Belarus" (not "Belorussia"), "Kazakhstan," "Kyrgyzstan" (not "Kirgizia"), "Moldova" (not "Moldavia"), "Tajikistan," "Turkmenistan," "Uzbekistan."
